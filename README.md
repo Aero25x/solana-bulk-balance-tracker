@@ -1,3 +1,5 @@
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hidden_coding)
+
 # Solana Token Balance Checker
 
 This script fetches the balance of a specified Solana token for all addresses listed in a JSON file. It supports checking the native SOL balance as well as SPL token balances.
@@ -84,3 +86,6 @@ This script fetches the balance of a specified Solana token for all addresses li
 ## Output
 
 The script will save the wallet balances to an Excel file named `solana_<TOKEN_CONTRACT>.xlsx`.
+
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hidden_coding)
+
